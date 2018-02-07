@@ -11,3 +11,8 @@ Constraints
 1. User must specify a maximum number of webpages to search to prevent infinite search 
 2. Record web pages that are searched to stop loops and prevent repetition
 
+
+
+Spider Class Data Structures
+1. pagesToVisit will need to accomplish a breath-first approach to storing links from each page 
+2. pagesVisited will contain unique elements only
